@@ -299,7 +299,7 @@ const CalendarApp = {
                         </div>
                     </section>
               `
-        document.querySelector('#targetContainerId').innerHTML = htmlContent;
+        document.querySelector('#calendarCat').innerHTML = htmlContent;
         resolve();
       }, 2000); // Espera 2 segundos para simular un proceso de renderización.
     });
