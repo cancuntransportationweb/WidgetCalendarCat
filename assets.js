@@ -5,7 +5,7 @@ export const styles = `
 }
 
  .calendar-tours {
-    width: 32%;
+    width: 100%;
     margin: 15px 30px;
     height: fit-content;
     font-family: 'Roboto', sans-serif;
