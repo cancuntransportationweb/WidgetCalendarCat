@@ -1,4 +1,4 @@
-import { styles } from "./assets.js";
+import { styles } from "assets.js";
 
 
 
